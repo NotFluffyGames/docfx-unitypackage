@@ -104,8 +104,8 @@ runs:
     - name: Read package.json
       shell: bash
       run: |
-        if [ -f package.json ]; then
-          content=`cat package.json`
+        if [ -f Package/package.json ]; then
+          content=`cat Package/package.json`
         else
           content='{}'
         fi
