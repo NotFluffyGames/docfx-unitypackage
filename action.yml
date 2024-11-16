@@ -1,4 +1,4 @@
-name: docfx-unitypackage
+name: notfluffy-docfx-unitypackage
 description: DocFX Unity package is a GitHub action for deploying a DocFX website for Unity packages to GitHub Pages.
 author: Casey Hofland
 branding:
